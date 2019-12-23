@@ -1,0 +1,1827 @@
+[
+	{
+		"month": 1,
+		"date": 1,
+		"books": "창세기 1-3"
+	},
+	{
+		"month": 1,
+		"date": 2,
+		"books": "창세기 4-6"
+	},
+	{
+		"month": 1,
+		"date": 3,
+		"books": "창세기 7-9"
+	},
+	{
+		"month": 1,
+		"date": 4,
+		"books": "창세기 10-12"
+	},
+	{
+		"month": 1,
+		"date": 5,
+		"books": "창세기 13-15"
+	},
+	{
+		"month": 1,
+		"date": 6,
+		"books": "창세기 16-18"
+	},
+	{
+		"month": 1,
+		"date": 7,
+		"books": "창세기 19-21"
+	},
+	{
+		"month": 1,
+		"date": 8,
+		"books": "창세기 22-24"
+	},
+	{
+		"month": 1,
+		"date": 9,
+		"books": "창세기 25-27"
+	},
+	{
+		"month": 1,
+		"date": 10,
+		"books": "창세기 28-30"
+	},
+	{
+		"month": 1,
+		"date": 11,
+		"books": "창세기 31-33"
+	},
+	{
+		"month": 1,
+		"date": 12,
+		"books": "창세기 34-36"
+	},
+	{
+		"month": 1,
+		"date": 13,
+		"books": "창세기 37-39"
+	},
+	{
+		"month": 1,
+		"date": 14,
+		"books": "창세기 40-42"
+	},
+	{
+		"month": 1,
+		"date": 15,
+		"books": "창세기 43-45"
+	},
+	{
+		"month": 1,
+		"date": 16,
+		"books": "창세기 46-48"
+	},
+	{
+		"month": 1,
+		"date": 17,
+		"books": "창세기 49-50,마태복음 1"
+	},
+	{
+		"month": 1,
+		"date": 18,
+		"books": "마태복음 2-4"
+	},
+	{
+		"month": 1,
+		"date": 19,
+		"books": "마태복음 5-7"
+	},
+	{
+		"month": 1,
+		"date": 20,
+		"books": "마태복음 8-10"
+	},
+	{
+		"month": 1,
+		"date": 21,
+		"books": "마태복음 11-13"
+	},
+	{
+		"month": 1,
+		"date": 22,
+		"books": "마태복음 14-16"
+	},
+	{
+		"month": 1,
+		"date": 23,
+		"books": "마태복음 17-19"
+	},
+	{
+		"month": 1,
+		"date": 24,
+		"books": "마태복음 20-22"
+	},
+	{
+		"month": 1,
+		"date": 25,
+		"books": "마태복음 23-25"
+	},
+	{
+		"month": 1,
+		"date": 26,
+		"books": "마태복음 26-28"
+	},
+	{
+		"month": 1,
+		"date": 27,
+		"books": "출애굽기 1-3"
+	},
+	{
+		"month": 1,
+		"date": 28,
+		"books": "출애굽기 4-6"
+	},
+	{
+		"month": 1,
+		"date": 29,
+		"books": "출애굽기 7-9"
+	},
+	{
+		"month": 1,
+		"date": 30,
+		"books": "출애굽기 10-12"
+	},
+	{
+		"month": 1,
+		"date": 31,
+		"books": "출애굽기 13-15"
+	},
+	{
+		"month": 2,
+		"date": 1,
+		"books": "출애굽기 16-18"
+	},
+	{
+		"month": 2,
+		"date": 2,
+		"books": "출애굽기 19-21"
+	},
+	{
+		"month": 2,
+		"date": 3,
+		"books": "출애굽기 22-24"
+	},
+	{
+		"month": 2,
+		"date": 4,
+		"books": "출애굽기 25-27"
+	},
+	{
+		"month": 2,
+		"date": 5,
+		"books": "출애굽기 28-30"
+	},
+	{
+		"month": 2,
+		"date": 6,
+		"books": "출애굽기 31-33"
+	},
+	{
+		"month": 2,
+		"date": 7,
+		"books": "출애굽기 34-36"
+	},
+	{
+		"month": 2,
+		"date": 8,
+		"books": "출애굽기 37-39"
+	},
+	{
+		"month": 2,
+		"date": 9,
+		"books": "출애굽기 40,마가복음 1-2"
+	},
+	{
+		"month": 2,
+		"date": 10,
+		"books": "마가복음 3-5"
+	},
+	{
+		"month": 2,
+		"date": 11,
+		"books": "마가복음 6-8"
+	},
+	{
+		"month": 2,
+		"date": 12,
+		"books": "마가복음 9-11"
+	},
+	{
+		"month": 2,
+		"date": 13,
+		"books": "마가복음 12-14"
+	},
+	{
+		"month": 2,
+		"date": 14,
+		"books": "마가복음 15-16"
+	},
+	{
+		"month": 2,
+		"date": 15,
+		"books": "레위기 1-3,잠언 1"
+	},
+	{
+		"month": 2,
+		"date": 16,
+		"books": "레위기 4-6,잠언 2"
+	},
+	{
+		"month": 2,
+		"date": 17,
+		"books": "레위기 7-9,잠언 3"
+	},
+	{
+		"month": 2,
+		"date": 18,
+		"books": "레위기 10-12,잠언 4"
+	},
+	{
+		"month": 2,
+		"date": 19,
+		"books": "레위기 13-15,잠언 5"
+	},
+	{
+		"month": 2,
+		"date": 20,
+		"books": "레위기 16-18,잠언 6"
+	},
+	{
+		"month": 2,
+		"date": 21,
+		"books": "레위기 19-21,잠언 7"
+	},
+	{
+		"month": 2,
+		"date": 22,
+		"books": "레위기 22-24,잠언 8"
+	},
+	{
+		"month": 2,
+		"date": 23,
+		"books": "레위기 25-27,잠언 9"
+	},
+	{
+		"month": 2,
+		"date": 24,
+		"books": "히브리서 1-3"
+	},
+	{
+		"month": 2,
+		"date": 25,
+		"books": "히브리서 4-6"
+	},
+	{
+		"month": 2,
+		"date": 26,
+		"books": "히브리서 7-9"
+	},
+	{
+		"month": 2,
+		"date": 27,
+		"books": "히브리서 10-12"
+	},
+	{
+		"month": 2,
+		"date": 28,
+		"books": "히브리서 13,민수기 1-2"
+	},
+	{
+		"month": 3,
+		"date": 1,
+		"books": "민수기 3-5,잠언 10"
+	},
+	{
+		"month": 3,
+		"date": 2,
+		"books": "민수기 6-8,잠언 11"
+	},
+	{
+		"month": 3,
+		"date": 3,
+		"books": "민수기 9-11,잠언 12"
+	},
+	{
+		"month": 3,
+		"date": 4,
+		"books": "민수기 12-14,잠언 13"
+	},
+	{
+		"month": 3,
+		"date": 5,
+		"books": "민수기 15-17,잠언 14"
+	},
+	{
+		"month": 3,
+		"date": 6,
+		"books": "민수기 18-20,잠언 15"
+	},
+	{
+		"month": 3,
+		"date": 7,
+		"books": "민수기 21-23,잠언 16"
+	},
+	{
+		"month": 3,
+		"date": 8,
+		"books": "민수기 24-26,잠언 17"
+	},
+	{
+		"month": 3,
+		"date": 9,
+		"books": "민수기 27-29,잠언 18"
+	},
+	{
+		"month": 3,
+		"date": 10,
+		"books": "민수기 30-32,잠언 19"
+	},
+	{
+		"month": 3,
+		"date": 11,
+		"books": "민수기 33-35,잠언 20"
+	},
+	{
+		"month": 3,
+		"date": 12,
+		"books": "민수기 36,누가복음 1-2"
+	},
+	{
+		"month": 3,
+		"date": 13,
+		"books": "누가복음 3-5"
+	},
+	{
+		"month": 3,
+		"date": 14,
+		"books": "누가복음 6-8"
+	},
+	{
+		"month": 3,
+		"date": 15,
+		"books": "누가복음 9-11"
+	},
+	{
+		"month": 3,
+		"date": 16,
+		"books": "누가복음 12-14"
+	},
+	{
+		"month": 3,
+		"date": 17,
+		"books": "누가복음 15-17"
+	},
+	{
+		"month": 3,
+		"date": 18,
+		"books": "누가복음 18-20"
+	},
+	{
+		"month": 3,
+		"date": 19,
+		"books": "누가복음 21-23"
+	},
+	{
+		"month": 3,
+		"date": 20,
+		"books": "누가복음 24,요한복음 1-2"
+	},
+	{
+		"month": 3,
+		"date": 21,
+		"books": "요한복음 3-5"
+	},
+	{
+		"month": 3,
+		"date": 22,
+		"books": "요한복음 6-8"
+	},
+	{
+		"month": 3,
+		"date": 23,
+		"books": "요한복음 9-11"
+	},
+	{
+		"month": 3,
+		"date": 24,
+		"books": "요한복음 12-14"
+	},
+	{
+		"month": 3,
+		"date": 25,
+		"books": "요한복음 15-17"
+	},
+	{
+		"month": 3,
+		"date": 26,
+		"books": "요한복음 18-20"
+	},
+	{
+		"month": 3,
+		"date": 27,
+		"books": "요한복음 21,신명기 1-2"
+	},
+	{
+		"month": 3,
+		"date": 28,
+		"books": "신명기 3-5,잠언 21"
+	},
+	{
+		"month": 3,
+		"date": 29,
+		"books": "신명기 6-8,잠언 22"
+	},
+	{
+		"month": 3,
+		"date": 30,
+		"books": "신명기 9-11,잠언 23"
+	},
+	{
+		"month": 3,
+		"date": 31,
+		"books": "신명기 12-14,잠언 24"
+	},
+	{
+		"month": 4,
+		"date": 1,
+		"books": "신명기 15-17,잠언 25"
+	},
+	{
+		"month": 4,
+		"date": 2,
+		"books": "신명기 18-20,잠언 26"
+	},
+	{
+		"month": 4,
+		"date": 3,
+		"books": "신명기 21-23,잠언 27"
+	},
+	{
+		"month": 4,
+		"date": 4,
+		"books": "신명기 24-26,잠언 28"
+	},
+	{
+		"month": 4,
+		"date": 5,
+		"books": "신명기 27-29,잠언 29"
+	},
+	{
+		"month": 4,
+		"date": 6,
+		"books": "신명기 30-32,잠언 30"
+	},
+	{
+		"month": 4,
+		"date": 7,
+		"books": "신명기 33-34,잠언 31"
+	},
+	{
+		"month": 4,
+		"date": 8,
+		"books": "여호수아 1-3"
+	},
+	{
+		"month": 4,
+		"date": 9,
+		"books": "여호수아 4-6"
+	},
+	{
+		"month": 4,
+		"date": 10,
+		"books": "여호수아 7-9"
+	},
+	{
+		"month": 4,
+		"date": 11,
+		"books": "여호수아 10-12"
+	},
+	{
+		"month": 4,
+		"date": 12,
+		"books": "여호수아 13-15"
+	},
+	{
+		"month": 4,
+		"date": 13,
+		"books": "여호수아 16-18"
+	},
+	{
+		"month": 4,
+		"date": 14,
+		"books": "여호수아 19-21"
+	},
+	{
+		"month": 4,
+		"date": 15,
+		"books": "여호수아 22-24,사도행전 1"
+	},
+	{
+		"month": 4,
+		"date": 16,
+		"books": "사도행전 2-4"
+	},
+	{
+		"month": 4,
+		"date": 17,
+		"books": "사도행전 5-7"
+	},
+	{
+		"month": 4,
+		"date": 18,
+		"books": "사도행전 8-10"
+	},
+	{
+		"month": 4,
+		"date": 19,
+		"books": "사도행전 11-13"
+	},
+	{
+		"month": 4,
+		"date": 20,
+		"books": "사도행전 14-16"
+	},
+	{
+		"month": 4,
+		"date": 21,
+		"books": "사도행전 17-19"
+	},
+	{
+		"month": 4,
+		"date": 22,
+		"books": "사도행전 20-22"
+	},
+	{
+		"month": 4,
+		"date": 23,
+		"books": "사도행전 23-25"
+	},
+	{
+		"month": 4,
+		"date": 24,
+		"books": "사도행전 26-28"
+	},
+	{
+		"month": 4,
+		"date": 25,
+		"books": "갈라디아서 1-3"
+	},
+	{
+		"month": 4,
+		"date": 26,
+		"books": "갈라디아서 4-6"
+	},
+	{
+		"month": 4,
+		"date": 27,
+		"books": "데살로니가전 1-3"
+	},
+	{
+		"month": 4,
+		"date": 28,
+		"books": "데살로니가전 4-5"
+	},
+	{
+		"month": 4,
+		"date": 29,
+		"books": "데살로니가후 1-3"
+	},
+	{
+		"month": 4,
+		"date": 30,
+		"books": "사사기 1-3"
+	},
+	{
+		"month": 5,
+		"date": 1,
+		"books": "사사기 4-6"
+	},
+	{
+		"month": 5,
+		"date": 2,
+		"books": "사사기 7-9"
+	},
+	{
+		"month": 5,
+		"date": 3,
+		"books": "사사기 10-12"
+	},
+	{
+		"month": 5,
+		"date": 4,
+		"books": "사사기 13-15"
+	},
+	{
+		"month": 5,
+		"date": 5,
+		"books": "사사기 16-18"
+	},
+	{
+		"month": 5,
+		"date": 6,
+		"books": "사사기 19-21"
+	},
+	{
+		"month": 5,
+		"date": 7,
+		"books": "룻기 1-4"
+	},
+	{
+		"month": 5,
+		"date": 8,
+		"books": "고린도전서 1-3"
+	},
+	{
+		"month": 5,
+		"date": 9,
+		"books": "고린도전서 4-6"
+	},
+	{
+		"month": 5,
+		"date": 10,
+		"books": "고린도전서 7-9"
+	},
+	{
+		"month": 5,
+		"date": 11,
+		"books": "고린도전서 10-12"
+	},
+	{
+		"month": 5,
+		"date": 12,
+		"books": "고린도전서 13-16"
+	},
+	{
+		"month": 5,
+		"date": 13,
+		"books": "고린도후서 1-3"
+	},
+	{
+		"month": 5,
+		"date": 14,
+		"books": "고린도후서 4-6"
+	},
+	{
+		"month": 5,
+		"date": 15,
+		"books": "고린도후서 7-9"
+	},
+	{
+		"month": 5,
+		"date": 16,
+		"books": "고린도후서 10-12"
+	},
+	{
+		"month": 5,
+		"date": 17,
+		"books": "고린도후서 13,로마서 1-2"
+	},
+	{
+		"month": 5,
+		"date": 18,
+		"books": "로마서 3-5"
+	},
+	{
+		"month": 5,
+		"date": 19,
+		"books": "로마서 6-8"
+	},
+	{
+		"month": 5,
+		"date": 20,
+		"books": "로마서 9-11"
+	},
+	{
+		"month": 5,
+		"date": 21,
+		"books": "로마서 12-14"
+	},
+	{
+		"month": 5,
+		"date": 22,
+		"books": "로마서 15-16,사무엘상 1"
+	},
+	{
+		"month": 5,
+		"date": 23,
+		"books": "사무엘상 2-4"
+	},
+	{
+		"month": 5,
+		"date": 24,
+		"books": "사무엘상 5-7"
+	},
+	{
+		"month": 5,
+		"date": 25,
+		"books": "사무엘상 8-10"
+	},
+	{
+		"month": 5,
+		"date": 26,
+		"books": "사무엘상 11-13"
+	},
+	{
+		"month": 5,
+		"date": 27,
+		"books": "사무엘상 14-16"
+	},
+	{
+		"month": 5,
+		"date": 28,
+		"books": "사무엘상 17-19"
+	},
+	{
+		"month": 5,
+		"date": 29,
+		"books": "사무엘상 20-22"
+	},
+	{
+		"month": 5,
+		"date": 30,
+		"books": "사무엘상 23-25"
+	},
+	{
+		"month": 5,
+		"date": 31,
+		"books": "사무엘상 26-28"
+	},
+	{
+		"month": 6,
+		"date": 1,
+		"books": "사무엘상 29-31"
+	},
+	{
+		"month": 6,
+		"date": 2,
+		"books": "사무엘하 1-3"
+	},
+	{
+		"month": 6,
+		"date": 3,
+		"books": "사무엘하 4-6"
+	},
+	{
+		"month": 6,
+		"date": 4,
+		"books": "사무엘하 7-9"
+	},
+	{
+		"month": 6,
+		"date": 5,
+		"books": "사무엘하 10-12"
+	},
+	{
+		"month": 6,
+		"date": 6,
+		"books": "사무엘하 13-15"
+	},
+	{
+		"month": 6,
+		"date": 7,
+		"books": "사무엘하 16-18"
+	},
+	{
+		"month": 6,
+		"date": 8,
+		"books": "사무엘하 19-21"
+	},
+	{
+		"month": 6,
+		"date": 9,
+		"books": "사무엘하 22-24"
+	},
+	{
+		"month": 6,
+		"date": 10,
+		"books": "에베소서 1-3"
+	},
+	{
+		"month": 6,
+		"date": 11,
+		"books": "에베소서 4-6"
+	},
+	{
+		"month": 6,
+		"date": 12,
+		"books": "열왕기상 1-3"
+	},
+	{
+		"month": 6,
+		"date": 13,
+		"books": "열왕기상 4-6"
+	},
+	{
+		"month": 6,
+		"date": 14,
+		"books": "열왕기상 7-9"
+	},
+	{
+		"month": 6,
+		"date": 15,
+		"books": "열왕기상 10-12"
+	},
+	{
+		"month": 6,
+		"date": 16,
+		"books": "열왕기상 13-15"
+	},
+	{
+		"month": 6,
+		"date": 17,
+		"books": "열왕기상 16-18"
+	},
+	{
+		"month": 6,
+		"date": 18,
+		"books": "열왕기상 19-21"
+	},
+	{
+		"month": 6,
+		"date": 19,
+		"books": "열왕기상 22,열왕기하 1-2"
+	},
+	{
+		"month": 6,
+		"date": 20,
+		"books": "열왕기하 3-5"
+	},
+	{
+		"month": 6,
+		"date": 21,
+		"books": "열왕기하 6-8"
+	},
+	{
+		"month": 6,
+		"date": 22,
+		"books": "열왕기하 9-11"
+	},
+	{
+		"month": 6,
+		"date": 23,
+		"books": "열왕기하 12-14"
+	},
+	{
+		"month": 6,
+		"date": 24,
+		"books": "열왕기하 15-17"
+	},
+	{
+		"month": 6,
+		"date": 25,
+		"books": "열왕기하 18-20"
+	},
+	{
+		"month": 6,
+		"date": 26,
+		"books": "열왕기하 21-23"
+	},
+	{
+		"month": 6,
+		"date": 27,
+		"books": "열왕기하 24-25,빌레몬 1"
+	},
+	{
+		"month": 6,
+		"date": 28,
+		"books": "빌립보서 1-4"
+	},
+	{
+		"month": 6,
+		"date": 29,
+		"books": "골로새서 1-4"
+	},
+	{
+		"month": 6,
+		"date": 30,
+		"books": "이사야 1-3"
+	},
+	{
+		"month": 7,
+		"date": 1,
+		"books": "이사야 4-6"
+	},
+	{
+		"month": 7,
+		"date": 2,
+		"books": "이사야 7-9"
+	},
+	{
+		"month": 7,
+		"date": 3,
+		"books": "이사야 10-12"
+	},
+	{
+		"month": 7,
+		"date": 4,
+		"books": "이사야 13-15"
+	},
+	{
+		"month": 7,
+		"date": 5,
+		"books": "이사야 16-18"
+	},
+	{
+		"month": 7,
+		"date": 6,
+		"books": "이사야 19-21"
+	},
+	{
+		"month": 7,
+		"date": 7,
+		"books": "이사야 22-24"
+	},
+	{
+		"month": 7,
+		"date": 8,
+		"books": "이사야 25-27"
+	},
+	{
+		"month": 7,
+		"date": 9,
+		"books": "이사야 28-30"
+	},
+	{
+		"month": 7,
+		"date": 10,
+		"books": "이사야 31-33"
+	},
+	{
+		"month": 7,
+		"date": 11,
+		"books": "이사야 34-36"
+	},
+	{
+		"month": 7,
+		"date": 12,
+		"books": "이사야 37-39"
+	},
+	{
+		"month": 7,
+		"date": 13,
+		"books": "이사야 40-42"
+	},
+	{
+		"month": 7,
+		"date": 14,
+		"books": "이사야 43-45"
+	},
+	{
+		"month": 7,
+		"date": 15,
+		"books": "이사야 46-48"
+	},
+	{
+		"month": 7,
+		"date": 16,
+		"books": "이사야 49-51"
+	},
+	{
+		"month": 7,
+		"date": 17,
+		"books": "이사야 52-54"
+	},
+	{
+		"month": 7,
+		"date": 18,
+		"books": "이사야 55-57"
+	},
+	{
+		"month": 7,
+		"date": 19,
+		"books": "이사야 58-60"
+	},
+	{
+		"month": 7,
+		"date": 20,
+		"books": "이사야 61-63"
+	},
+	{
+		"month": 7,
+		"date": 21,
+		"books": "이사야 64-66"
+	},
+	{
+		"month": 7,
+		"date": 22,
+		"books": "욥기 1-3"
+	},
+	{
+		"month": 7,
+		"date": 23,
+		"books": "욥기 4-6"
+	},
+	{
+		"month": 7,
+		"date": 24,
+		"books": "욥기 7-9"
+	},
+	{
+		"month": 7,
+		"date": 25,
+		"books": "욥기 10-12"
+	},
+	{
+		"month": 7,
+		"date": 26,
+		"books": "욥기 13-15"
+	},
+	{
+		"month": 7,
+		"date": 27,
+		"books": "욥기 16-18"
+	},
+	{
+		"month": 7,
+		"date": 28,
+		"books": "욥기 19-21"
+	},
+	{
+		"month": 7,
+		"date": 29,
+		"books": "욥기 22-24"
+	},
+	{
+		"month": 7,
+		"date": 30,
+		"books": "욥기 25-27"
+	},
+	{
+		"month": 7,
+		"date": 31,
+		"books": "욥기 28-30"
+	},
+	{
+		"month": 8,
+		"date": 1,
+		"books": "욥기 31-33"
+	},
+	{
+		"month": 8,
+		"date": 2,
+		"books": "욥기 34-36"
+	},
+	{
+		"month": 8,
+		"date": 3,
+		"books": "욥기 37-39"
+	},
+	{
+		"month": 8,
+		"date": 4,
+		"books": "욥기 40-42"
+	},
+	{
+		"month": 8,
+		"date": 5,
+		"books": "시편 1-5"
+	},
+	{
+		"month": 8,
+		"date": 6,
+		"books": "시편 6-10"
+	},
+	{
+		"month": 8,
+		"date": 7,
+		"books": "시편 11-15"
+	},
+	{
+		"month": 8,
+		"date": 8,
+		"books": "시편 16-20"
+	},
+	{
+		"month": 8,
+		"date": 9,
+		"books": "시편 21-24"
+	},
+	{
+		"month": 8,
+		"date": 10,
+		"books": "시편 25-27"
+	},
+	{
+		"month": 8,
+		"date": 11,
+		"books": "호세아 1-3"
+	},
+	{
+		"month": 8,
+		"date": 12,
+		"books": "호세아 4-6"
+	},
+	{
+		"month": 8,
+		"date": 13,
+		"books": "호세아 7-9"
+	},
+	{
+		"month": 8,
+		"date": 14,
+		"books": "호세아 10-12"
+	},
+	{
+		"month": 8,
+		"date": 15,
+		"books": "호세아 13-14,시편 28"
+	},
+	{
+		"month": 8,
+		"date": 16,
+		"books": "아모스 1-3"
+	},
+	{
+		"month": 8,
+		"date": 17,
+		"books": "아모스 4-6"
+	},
+	{
+		"month": 8,
+		"date": 18,
+		"books": "아모스 7-9"
+	},
+	{
+		"month": 8,
+		"date": 19,
+		"books": "요엘 1-3"
+	},
+	{
+		"month": 8,
+		"date": 20,
+		"books": "요나 1-4"
+	},
+	{
+		"month": 8,
+		"date": 21,
+		"books": "오바댜 1,나훔 1-3"
+	},
+	{
+		"month": 8,
+		"date": 22,
+		"books": "미가 1-3"
+	},
+	{
+		"month": 8,
+		"date": 23,
+		"books": "미가 4-7"
+	},
+	{
+		"month": 8,
+		"date": 24,
+		"books": "시편 29-33"
+	},
+	{
+		"month": 8,
+		"date": 25,
+		"books": "시편 34-38"
+	},
+	{
+		"month": 8,
+		"date": 26,
+		"books": "시편 39-43"
+	},
+	{
+		"month": 8,
+		"date": 27,
+		"books": "시편 44-48"
+	},
+	{
+		"month": 8,
+		"date": 28,
+		"books": "시편 49-53"
+	},
+	{
+		"month": 8,
+		"date": 29,
+		"books": "역대상 1-2,시편 54-55"
+	},
+	{
+		"month": 8,
+		"date": 30,
+		"books": "역대상 3-4,시편 56-57"
+	},
+	{
+		"month": 8,
+		"date": 31,
+		"books": "역대상 5-6,시편 58-59"
+	},
+	{
+		"month": 9,
+		"date": 1,
+		"books": "역대상 7-8,시편 60-61"
+	},
+	{
+		"month": 9,
+		"date": 2,
+		"books": "역대상 9-10,시편 61-62"
+	},
+	{
+		"month": 9,
+		"date": 3,
+		"books": "역대상 11-13"
+	},
+	{
+		"month": 9,
+		"date": 4,
+		"books": "역대상 14-16"
+	},
+	{
+		"month": 9,
+		"date": 5,
+		"books": "역대상 17-19"
+	},
+	{
+		"month": 9,
+		"date": 6,
+		"books": "역대상 20-22"
+	},
+	{
+		"month": 9,
+		"date": 7,
+		"books": "역대상 23-25"
+	},
+	{
+		"month": 9,
+		"date": 8,
+		"books": "역대상 26-29"
+	},
+	{
+		"month": 9,
+		"date": 9,
+		"books": "하박국 1-3"
+	},
+	{
+		"month": 9,
+		"date": 10,
+		"books": "스바냐 1-3"
+	},
+	{
+		"month": 9,
+		"date": 11,
+		"books": "역대하 1-3"
+	},
+	{
+		"month": 9,
+		"date": 12,
+		"books": "역대하 4-6"
+	},
+	{
+		"month": 9,
+		"date": 13,
+		"books": "역대하 7-9"
+	},
+	{
+		"month": 9,
+		"date": 14,
+		"books": "역대하 10-12"
+	},
+	{
+		"month": 9,
+		"date": 15,
+		"books": "역대하 13-15"
+	},
+	{
+		"month": 9,
+		"date": 16,
+		"books": "역대하 16-18"
+	},
+	{
+		"month": 9,
+		"date": 17,
+		"books": "역대하 19-21"
+	},
+	{
+		"month": 9,
+		"date": 18,
+		"books": "역대하 22-24"
+	},
+	{
+		"month": 9,
+		"date": 19,
+		"books": "역대하 25-27"
+	},
+	{
+		"month": 9,
+		"date": 20,
+		"books": "역대하 28-30"
+	},
+	{
+		"month": 9,
+		"date": 21,
+		"books": "역대하 31-33"
+	},
+	{
+		"month": 9,
+		"date": 22,
+		"books": "역대하 34-36"
+	},
+	{
+		"month": 9,
+		"date": 23,
+		"books": "시편 63-67"
+	},
+	{
+		"month": 9,
+		"date": 24,
+		"books": "시편 68-72"
+	},
+	{
+		"month": 9,
+		"date": 25,
+		"books": "시편 73-77"
+	},
+	{
+		"month": 9,
+		"date": 26,
+		"books": "시편 78-82"
+	},
+	{
+		"month": 9,
+		"date": 27,
+		"books": "시편 83-87"
+	},
+	{
+		"month": 9,
+		"date": 28,
+		"books": "에스라 1-3"
+	},
+	{
+		"month": 9,
+		"date": 29,
+		"books": "에스라 4-6"
+	},
+	{
+		"month": 9,
+		"date": 30,
+		"books": "에스라 7-8"
+	},
+	{
+		"month": 10,
+		"date": 1,
+		"books": "에스라 9-10"
+	},
+	{
+		"month": 10,
+		"date": 2,
+		"books": "느헤미야 1-3"
+	},
+	{
+		"month": 10,
+		"date": 3,
+		"books": "느헤미야 4-6"
+	},
+	{
+		"month": 10,
+		"date": 4,
+		"books": "느헤미야 7-9"
+	},
+	{
+		"month": 10,
+		"date": 5,
+		"books": "느헤미야 10-11"
+	},
+	{
+		"month": 10,
+		"date": 6,
+		"books": "느헤미야 12-13"
+	},
+	{
+		"month": 10,
+		"date": 7,
+		"books": "에스더 1-3"
+	},
+	{
+		"month": 10,
+		"date": 8,
+		"books": "에스더 4-6"
+	},
+	{
+		"month": 10,
+		"date": 9,
+		"books": "에스더 7-10"
+	},
+	{
+		"month": 10,
+		"date": 10,
+		"books": "디모데전서 1-3"
+	},
+	{
+		"month": 10,
+		"date": 11,
+		"books": "디모데전서 4-6"
+	},
+	{
+		"month": 10,
+		"date": 12,
+		"books": "디모데후서 1-4"
+	},
+	{
+		"month": 10,
+		"date": 13,
+		"books": "디도서 1-3"
+	},
+	{
+		"month": 10,
+		"date": 14,
+		"books": "시편 88-90"
+	},
+	{
+		"month": 10,
+		"date": 15,
+		"books": "시편 91-95"
+	},
+	{
+		"month": 10,
+		"date": 16,
+		"books": "시편 96-100"
+	},
+	{
+		"month": 10,
+		"date": 17,
+		"books": "시편 101-104"
+	},
+	{
+		"month": 10,
+		"date": 18,
+		"books": "시편 105-107"
+	},
+	{
+		"month": 10,
+		"date": 19,
+		"books": "시편 108-110"
+	},
+	{
+		"month": 10,
+		"date": 20,
+		"books": "예레미야 1-3"
+	},
+	{
+		"month": 10,
+		"date": 21,
+		"books": "예레미야 4-6"
+	},
+	{
+		"month": 10,
+		"date": 22,
+		"books": "예레미야 7-9"
+	},
+	{
+		"month": 10,
+		"date": 23,
+		"books": "예레미야 10-12"
+	},
+	{
+		"month": 10,
+		"date": 24,
+		"books": "예레미야 13-15"
+	},
+	{
+		"month": 10,
+		"date": 25,
+		"books": "예레미야 16-18"
+	},
+	{
+		"month": 10,
+		"date": 26,
+		"books": "예레미야 19-21"
+	},
+	{
+		"month": 10,
+		"date": 27,
+		"books": "예레미야 22-24"
+	},
+	{
+		"month": 10,
+		"date": 28,
+		"books": "예레미야 25-27"
+	},
+	{
+		"month": 10,
+		"date": 29,
+		"books": "예레미야 28-30"
+	},
+	{
+		"month": 10,
+		"date": 30,
+		"books": "예레미야 31-33"
+	},
+	{
+		"month": 10,
+		"date": 31,
+		"books": "예레미야 34-36"
+	},
+	{
+		"month": 11,
+		"date": 1,
+		"books": "예레미야 37-39"
+	},
+	{
+		"month": 11,
+		"date": 2,
+		"books": "예레미야 40-42"
+	},
+	{
+		"month": 11,
+		"date": 3,
+		"books": "예레미야 43-45"
+	},
+	{
+		"month": 11,
+		"date": 4,
+		"books": "예레미야 46-48"
+	},
+	{
+		"month": 11,
+		"date": 5,
+		"books": "예레미야 49-50"
+	},
+	{
+		"month": 11,
+		"date": 6,
+		"books": "예레미아 51-52"
+	},
+	{
+		"month": 11,
+		"date": 7,
+		"books": "예레미아애가 1-5"
+	},
+	{
+		"month": 11,
+		"date": 8,
+		"books": "야고보서 1-3"
+	},
+	{
+		"month": 11,
+		"date": 9,
+		"books": "야고보서 4-5,시편 110"
+	},
+	{
+		"month": 11,
+		"date": 10,
+		"books": "시편 111-115"
+	},
+	{
+		"month": 11,
+		"date": 11,
+		"books": "시편 116-118"
+	},
+	{
+		"month": 11,
+		"date": 12,
+		"books": "시편 119"
+	},
+	{
+		"month": 11,
+		"date": 13,
+		"books": "시편 120-124"
+	},
+	{
+		"month": 11,
+		"date": 14,
+		"books": "전도서 1-4"
+	},
+	{
+		"month": 11,
+		"date": 15,
+		"books": "전도서 5-8"
+	},
+	{
+		"month": 11,
+		"date": 16,
+		"books": "전도서 9-12"
+	},
+	{
+		"month": 11,
+		"date": 17,
+		"books": "에스겔 1-3"
+	},
+	{
+		"month": 11,
+		"date": 18,
+		"books": "에스겔 4-6"
+	},
+	{
+		"month": 11,
+		"date": 19,
+		"books": "에스겔 7-9"
+	},
+	{
+		"month": 11,
+		"date": 20,
+		"books": "에스겔 10-12"
+	},
+	{
+		"month": 11,
+		"date": 21,
+		"books": "에스겔 13-15"
+	},
+	{
+		"month": 11,
+		"date": 22,
+		"books": "에스겔 16-18"
+	},
+	{
+		"month": 11,
+		"date": 23,
+		"books": "에스겔 19-21"
+	},
+	{
+		"month": 11,
+		"date": 24,
+		"books": "에스겔 22-24"
+	},
+	{
+		"month": 11,
+		"date": 25,
+		"books": "에스겔 25-27"
+	},
+	{
+		"month": 11,
+		"date": 26,
+		"books": "에스겔 28-30"
+	},
+	{
+		"month": 11,
+		"date": 27,
+		"books": "에스겔 31-33"
+	},
+	{
+		"month": 11,
+		"date": 28,
+		"books": "에스겔 34-36"
+	},
+	{
+		"month": 11,
+		"date": 29,
+		"books": "에스겔 37-39"
+	},
+	{
+		"month": 11,
+		"date": 30,
+		"books": "에스겔 40-42"
+	},
+	{
+		"month": 12,
+		"date": 1,
+		"books": "에스겔 43-45"
+	},
+	{
+		"month": 12,
+		"date": 2,
+		"books": "에스겔 46-48"
+	},
+	{
+		"month": 12,
+		"date": 3,
+		"books": "시편 125-129"
+	},
+	{
+		"month": 12,
+		"date": 4,
+		"books": "시편 130-134"
+	},
+	{
+		"month": 12,
+		"date": 5,
+		"books": "시편 135-139"
+	},
+	{
+		"month": 12,
+		"date": 6,
+		"books": "시편 140-144"
+	},
+	{
+		"month": 12,
+		"date": 7,
+		"books": "시편 145-150"
+	},
+	{
+		"month": 12,
+		"date": 8,
+		"books": "다니엘 1-3"
+	},
+	{
+		"month": 12,
+		"date": 9,
+		"books": "다니엘 4-6"
+	},
+	{
+		"month": 12,
+		"date": 10,
+		"books": "다니엘 7-9"
+	},
+	{
+		"month": 12,
+		"date": 11,
+		"books": "다니엘 10-12"
+	},
+	{
+		"month": 12,
+		"date": 12,
+		"books": "베드로전서 1-3"
+	},
+	{
+		"month": 12,
+		"date": 13,
+		"books": "베드로전전 4-5"
+	},
+	{
+		"month": 12,
+		"date": 14,
+		"books": "베드로후서 1-3"
+	},
+	{
+		"month": 12,
+		"date": 15,
+		"books": "스가랴 1-4"
+	},
+	{
+		"month": 12,
+		"date": 16,
+		"books": "스가랴 5-8"
+	},
+	{
+		"month": 12,
+		"date": 17,
+		"books": "스가랴 9-12"
+	},
+	{
+		"month": 12,
+		"date": 18,
+		"books": "스가랴 13-14,학개 1-2"
+	},
+	{
+		"month": 12,
+		"date": 19,
+		"books": "요한1서 1-3"
+	},
+	{
+		"month": 12,
+		"date": 20,
+		"books": "요한1서 4-5,요한2서 1,요한3서 1"
+	},
+	{
+		"month": 12,
+		"date": 21,
+		"books": "말라기 1-4"
+	},
+	{
+		"month": 12,
+		"date": 22,
+		"books": "아가 1-3"
+	},
+	{
+		"month": 12,
+		"date": 23,
+		"books": "아가 4-6"
+	},
+	{
+		"month": 12,
+		"date": 24,
+		"books": "아가 7-8,유다서 1"
+	},
+	{
+		"month": 12,
+		"date": 25,
+		"books": "요한계시록 1-3"
+	},
+	{
+		"month": 12,
+		"date": 26,
+		"books": "요한계시록 4-6"
+	},
+	{
+		"month": 12,
+		"date": 27,
+		"books": "요한계시록 7-9"
+	},
+	{
+		"month": 12,
+		"date": 28,
+		"books": "요한계시록 10-12"
+	},
+	{
+		"month": 12,
+		"date": 29,
+		"books": "요한계시록 13-15"
+	},
+	{
+		"month": 12,
+		"date": 30,
+		"books": "요한계시록 16-18"
+	},
+	{
+		"month": 12,
+		"date": 31,
+		"books": "요한계시록 19-22"
+	}
+]
