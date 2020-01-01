@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665524533654",
+    "firebase_url": "https://hanareadthru.firebaseio.com",
+    "project_id": "hanareadthru",
+    "storage_bucket": "hanareadthru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665524533654:android:7200d028cbaa98156705b7",
+        "android_client_info": {
+          "package_name": "com.hana_readthru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665524533654-ap8cl9l8m1c6dj2fg1i34ot6jibgr3rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfPbER776SlDvqhiAVzqNXU5mz8wWFW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665524533654-ap8cl9l8m1c6dj2fg1i34ot6jibgr3rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
